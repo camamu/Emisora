@@ -1,0 +1,44 @@
+h1{
+    letter-spacing:5px;
+    text-shadow:2px -2px #F2F2F2;
+    text-decoration:underline;
+}
+div.cabecera a:link{
+    padding-top:4px;
+    padding-bottom:6px;
+    margin-left:6px;
+    margin-right:6px;
+    text-decoration:none;
+    border:black;
+    text-align:left
+}
+div.cabecera a:visited{
+    background-color:#BDBDBD;
+}
+div.cabecera a:hover{
+    background-color:#F2F2F2;
+}
+div.cabecera{
+    font-family:fantasy;
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:7px;
+    background-color:#BDBDBD;
+    margin-left:120px;
+    margin-right:120px;
+}
+div.cuerpo{
+    padding-top:10px;
+    padding-bottom:7px;
+    background-color:#F2F2F2;
+    margin-left:120px;
+    margin-right:120px;
+}
+div.contenidocuerpo{
+    margin-left:25px;
+    margin-right:25px;
+    background-color:#F2F2F2;
+    
+}
+
+

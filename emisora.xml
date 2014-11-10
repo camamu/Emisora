@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='emisora.xsl'?>
+<emisora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noSchemaLocation="XSD.xsd">
+	<nombre>JurasicFM</nombre>
+	<eslogan>Desde la prehistoria poniendo música</eslogan>
+	<logo>dinosaurio_2.png</logo>
+	<email>jurasicFM@gmail.com</email>
+	<top10>
+		<disco>
+			<titulo>Night Visions</titulo>
+			<artista>Imagine Dragons</artista>
+			<aniopublic>2013</aniopublic>
+			<sello>Universal Music Spain S.L.</sello>
+			<posicion>01</posicion>
+			<caratula>Night_Visions_Album_Cover.jpeg</caratula>
+			<tracklist>
+				<pista><nombre>Radioactive</nombre></pista>
+				<pista><nombre>Tiptoe</nombre></pista>
+				<pista><nombre>It's Time</nombre></pista>
+				<pista><nombre>Demons</nombre></pista>
+				<pista><nombre>On Top Of The World</nombre></pista>
+				<pista><nombre>Amsterdam</nombre></pista>
+				<pista><nombre>Hear Me</nombre></pista>
+				<pista><nombre>Every Night</nombre></pista>
+				<pista><nombre>Bleeding Out</nombre></pista>
+				<pista><nombre>Underdog</nombre></pista>
+				<pista><nombre>Nothing Left To Say / Rocks (Medley)</nombre></pista>
+				<pista><nombre>Cha-Ching (Till We Grow Older)</nombre></pista>
+				<pista><nombre>Working Man</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Esto Es Estopa</titulo>
+			<artista>Estopa</artista>
+			<aniopublic>2014</aniopublic>
+			<sello>Ariola</sello>
+			<posicion>03</posicion>
+			<caratula>estopa_esto_es_estopa-portada.jpg</caratula>
+			<tracklist>
+				<pista><nombre>Como camaron</nombre></pista>
+				<pista><nombre>naturaleza</nombre></pista>
+				<pista><nombre>tu calorro</nombre></pista>
+				<pista><nombre>ahora</nombre></pista>
+				<pista><nombre>me quedare</nombre></pista>
+				<pista><nombre>ya no me acuerdo</nombre></pista>
+				<pista><nombre>rumba triste</nombre></pista>
+				<pista><nombre>cuando tu te vas</nombre></pista>
+				<pista><nombre>el run run</nombre></pista>
+				<pista><nombre>hemicraneal</nombre></pista>
+				<pista><nombre>partiendo la pana</nombre></pista>
+				<pista><nombre>la primavera</nombre></pista>
+				<pista><nombre>vino tinto</nombre></pista>
+				<pista><nombre>me falta el aliento</nombre></pista>
+				<pista><nombre>la raja de tu falda</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Prestige</titulo>
+			<artista>Daddy Yankee</artista>
+			<aniopublic>2012</aniopublic>
+			<sello>Capitol Latin</sello>
+			<posicion>02</posicion>
+			<caratula>pasarela-prestige.jpg</caratula>
+			<tracklist>
+				<pista><nombre>Perros salvajes</nombre></pista>
+				<pista><nombre>miss show</nombre></pista>
+				<pista><nombre>pon t loca</nombre></pista>
+				<pista><nombre>el amante</nombre></pista>
+				<pista><nombre>pasarela</nombre></pista>
+				<pista><nombre>po'encima</nombre></pista>
+				<pista><nombre>la noche de los dos</nombre></pista>
+				<pista><nombre>llegamos a la disco</nombre></pista>
+				<pista><nombre>switchea</nombre></pista>
+				<pista><nombre>limbo</nombre></pista>
+				<pista><nombre>la calle moderna</nombre></pista>
+				<pista><nombre>after party</nombre></pista>
+				<pista><nombre>la maquina del baile</nombre></pista>
+				<pista><nombre>mas que un amigo</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Don Omar Presents MTO2: New Generation</titulo>
+			<artista>Don Omar</artista>
+			<aniopublic>2012</aniopublic>
+			<sello>Universal Music Spain S.L.</sello>
+			<posicion>04</posicion>
+			<caratula>frontvkk.jpg</caratula>
+			<tracklist>
+				<pista><nombre>Hasta que salga el sol</nombre></pista>
+				<pista><nombre>zumba</nombre></pista>
+				<pista><nombre>dutty love</nombre></pista>
+				<pista><nombre>slow motion</nombre></pista>
+				<pista><nombre>fml</nombre></pista>
+				<pista><nombre>no sigue modas</nombre></pista>
+				<pista><nombre>asi es que es</nombre></pista>
+				<pista><nombre>flor de campo</nombre></pista>
+				<pista><nombre>mi nena</nombre></pista>
+				<pista><nombre>dame una llamada</nombre></pista>
+				<pista><nombre>la llave de mi corazon</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Sex and Love</titulo>
+			<artista>Enrique Iglesias</artista>
+			<aniopublic>2014</aniopublic>
+			<sello>Universal Music Spain S.L.</sello>
+			<posicion>05</posicion>
+			<caratula>Sex_and_Love.png</caratula>
+			<tracklist>
+				<pista><nombre>I'm a Freak</nombre></pista>
+				<pista><nombre>There Goes My Baby</nombre></pista>
+				<pista><nombre>Bailando</nombre></pista>
+				<pista><nombre>El Perdedor</nombre></pista>
+				<pista><nombre>Loco</nombre></pista>
+				<pista><nombre>Let Me Be Your Lover</nombre></pista>
+				<pista><nombre>You and I</nombre></pista>
+				<pista><nombre>Heart Attack</nombre></pista>
+				<pista><nombre>Me Cuesta Tanto Olvidarte</nombre></pista>
+				<pista><nombre>Noche y Día</nombre></pista>
+				<pista><nombre>Loco</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Unorthodox Jukebox</titulo>
+			<artista>Bruno Mars</artista>
+			<aniopublic>2012</aniopublic>
+			<sello>Atlantic Records</sello>
+			<posicion>06</posicion>
+			<caratula>BrunoMarsUJAlbumCover.png</caratula>
+			<tracklist>
+				<pista><nombre>Young Girls</nombre></pista>
+				<pista><nombre>Locked Out of Heaven</nombre></pista>
+				<pista><nombre>Gorilla</nombre></pista>
+				<pista><nombre>Treasure</nombre></pista>
+				<pista><nombre>Moonshine</nombre></pista>
+				<pista><nombre>When I Was Your Man</nombre></pista>
+				<pista><nombre>Natalie</nombre></pista>
+				<pista><nombre>Show Me</nombre></pista>
+				<pista><nombre>Money Make Her Smile</nombre></pista>
+				<pista><nombre>If I Knew</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Tú Y Yo</titulo>
+			<artista>David Bisbal</artista>
+			<aniopublic>2014</aniopublic>
+			<sello>Universal Music Spain S.L.</sello>
+			<posicion>07</posicion>
+			<caratula>tuyyo.jpg</caratula>
+			<tracklist>
+				<pista><nombre>No amanece</nombre></pista>
+				<pista><nombre>Si pero no</nombre></pista>
+				<pista><nombre>Diez mil maneras</nombre></pista>
+				<pista><nombre>Si aun te quieres quedar</nombre></pista>
+				<pista><nombre>tu y yo</nombre></pista>
+				<pista><nombre>Mi estrella de cine</nombre></pista>
+				<pista><nombre>Culpable</nombre></pista>
+				<pista><nombre>Hombre de tu vida</nombre></pista>
+				<pista><nombre>Burbuja</nombre></pista>
+				<pista><nombre>Lo que vendra</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Random Access Memories</titulo>
+			<artista>Daft Punk</artista>
+			<aniopublic>2013</aniopublic>
+			<sello>Columbia</sello>
+			<posicion>08</posicion>
+			<caratula>daf.jpg</caratula>
+			<tracklist>
+				<pista><nombre>Give Life Back to Music</nombre></pista>
+				<pista><nombre>The Game of Love</nombre></pista>
+				<pista><nombre>Giorgio by Moroder</nombre></pista>
+				<pista><nombre>Within</nombre></pista>
+				<pista><nombre>Instant Crush</nombre></pista>
+				<pista><nombre>Lose Yourself to Dance</nombre></pista>
+				<pista><nombre>Touch</nombre></pista>
+				<pista><nombre>Get Lucky</nombre></pista>
+				<pista><nombre>Beyond</nombre></pista>
+				<pista><nombre>Motherboard</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Recess</titulo>
+			<artista>Skrillex</artista>
+			<aniopublic>2014</aniopublic>
+			<sello>OWSLA/Big Beat/ATL</sello>
+			<posicion>09</posicion>
+			<caratula>lolo.jpg</caratula>
+			<tracklist>
+				<pista><nombre>All Is Fair in Love and Brostep</nombre></pista>
+				<pista><nombre>Recess</nombre></pista>
+				<pista><nombre>Stranger</nombre></pista>
+				<pista><nombre>Try It Out</nombre></pista>
+				<pista><nombre>Coast Is Clear</nombre></pista>
+				<pista><nombre>Dirty Vibe</nombre></pista>
+				<pista><nombre>Ragga Bomb</nombre></pista>
+				<pista><nombre>Doompy Poomp</nombre></pista>
+				<pista><nombre>Ease My Mind</nombre></pista>
+				<pista><nombre>Fire Away</nombre></pista>
+			</tracklist>
+		</disco>
+		<disco>
+			<titulo>Si</titulo>
+			<artista>Malú</artista>
+			<aniopublic>2013</aniopublic>
+			<sello>Ariola</sello>
+			<posicion>10</posicion>
+			<caratula>si.jpg</caratula>
+			<tracklist>
+				<pista><nombre>A prueba de ti</nombre></pista>
+				<pista><nombre>Te voy a olvidar</nombre></pista>
+				<pista><nombre>Me fuí</nombre></pista>
+				<pista><nombre>Desaparecer</nombre></pista>
+				<pista><nombre>Que más me dà</nombre></pista>
+				<pista><nombre>Ángel caído</nombre></pista>
+				<pista><nombre>Deshazte de mi</nombre></pista>
+				<pista><nombre>Ni un paso atrás</nombre></pista>
+				<pista><nombre>Lo mismo que yo</nombre></pista>
+				<pista><nombre>Ojalá</nombre></pista>
+			</tracklist>
+		</disco>
+	</top10>
+	<programacion>
+		<horario>
+			<dia>lunes</dia>
+			<hora>8:00 - 11:00</hora>
+			<programa>mañanero</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>lunes</dia>
+			<hora>11:00 - 14:00</hora>
+			<programa>el almuerzo</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>lunes</dia>
+			<hora>14:00 - 17:00</hora>
+			<programa>el intermedio</programa>
+			<locutor>Maria</locutor>
+		</horario>
+		<horario>
+			<dia>lunes</dia>
+			<hora>17:00 - 20:00</hora>
+			<programa>el atardecer</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>lunes</dia>
+			<hora>20:00 - 00:00</hora>
+			<programa>chill-out</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>martes</dia>
+			<hora>8:00 - 11:00</hora>
+			<programa>marnes</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>martes</dia>
+			<hora>11:00 - 14:00</hora>
+			<programa>el almuerzo</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>martes</dia>
+			<hora>14:00 - 17:00</hora>
+			<programa>el intermedio</programa>
+			<locutor>maria</locutor>
+		</horario>
+		<horario>
+			<dia>martes</dia>
+			<hora>17:00 - 20:00</hora>
+			<programa>reggaeton 2.0</programa>
+			<locutor>lucia</locutor>
+		</horario>
+		<horario>
+			<dia>martes</dia>
+			<hora>20:00 - 00:00</hora>
+			<programa>top10</programa>
+			<locutor>carlos</locutor>
+		</horario>
+		
+		<horario>
+			<dia>miercoles</dia>
+			<hora>8:00 - 11:00</hora>
+			<programa>mañanero</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>miercoles</dia>
+			<hora>11:00 - 14:00</hora>
+			<programa>el almuerzo</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>miercoles</dia>
+			<hora>14:00 - 17:00</hora>
+			<programa>el intermedio</programa>
+			<locutor>maria</locutor>
+		</horario>
+		<horario>
+			<dia>miercoles</dia>
+			<hora>17:00 - 20:00</hora>
+			<programa>el atardecer</programa>
+			<locutor>lucia</locutor>
+		</horario>
+		<horario>
+			<dia>miercoles</dia>
+			<hora>20:00 - 00:00</hora>
+			<programa>chill-out</programa>
+			<locutor>carlos</locutor>
+		</horario>
+		
+		<horario>
+			<dia>jueves</dia>
+			<hora>8:00 - 11:00</hora>
+			<programa>juernes</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>jueves</dia>
+			<hora>11:00 - 14:00</hora>
+			<programa>el almuerzo</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>jueves</dia>
+			<hora>14:00 - 17:00</hora>
+			<programa>house2.0</programa>
+			<locutor>maria</locutor>
+		</horario>
+		<horario>
+			<dia>jueves</dia>
+			<hora>17:00 - 20:00</hora>
+			<programa>el atardecer</programa>
+			<locutor>lucia</locutor>
+		</horario>
+		<horario>
+			<dia>jueves</dia>
+			<hora>20:00 - 00:00</hora>
+			<programa>top10</programa>
+			<locutor>carlos</locutor>
+		</horario>
+		
+		<horario>
+			<dia>viernes</dia>
+			<hora>8:00 - 11:00</hora>
+			<programa>mañanero</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>viernes</dia>
+			<hora>11:00 - 14:00</hora>
+			<programa>el almuerzo</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>viernes</dia>
+			<hora>14:00 - 17:00</hora>
+			<programa>el intermedio</programa>
+			<locutor>Maria</locutor>
+		</horario>
+		<horario>
+			<dia>viernes</dia>
+			<hora>17:00 - 20:00</hora>
+			<programa>el atardecer</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>viernes</dia>
+			<hora>20:00 - 00:00</hora>
+			<programa>chill-out</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		
+		<horario>
+			<dia>sabado</dia>
+			<hora>8:00 - 12:00</hora>
+			<programa>mañanero</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>sabado</dia>
+			<hora>12:00 - 16:00</hora>
+			<programa>top10</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>sabado</dia>
+			<hora>16:00 - 20:00</hora>
+			<programa>mix sabado</programa>
+			<locutor>Maria</locutor>
+		</horario>
+		
+		<horario>
+			<dia>domingo</dia>
+			<hora>8:00 - 12:00</hora>
+			<programa>mañanero</programa>
+			<locutor>Carlos</locutor>
+		</horario>
+		<horario>
+			<dia>domingo</dia>
+			<hora>12:00 - 16:00</hora>
+			<programa>top10</programa>
+			<locutor>Lucia</locutor>
+		</horario>
+		<horario>
+			<dia>domingo</dia>
+			<hora>16:00 - 20:00</hora>
+			<programa>mix domingo</programa>
+			<locutor>Maria</locutor>
+		</horario>
+	</programacion>
+	<personal>
+		<empleado>
+			<nombre>Carlos</nombre>
+			<apellidos>Pelaez Rodriguez</apellidos>
+			<cargo>Director</cargo>
+			<email>CaPeRo@gmail.com</email>
+			<telefono>659845571</telefono>
+		</empleado>
+		<empleado>
+			<nombre>Maria</nombre>
+			<apellidos>Martinez Martinez</apellidos>
+			<cargo>locutor</cargo>
+			<email>MaMaMar@gmail.com</email>
+			<telefono>669853321</telefono>
+		</empleado>
+		<empleado>
+			<nombre>Lucia</nombre>
+			<apellidos>Vazquez Feranadez</apellidos>
+			<cargo>locutor</cargo>
+			<email>LuVazFer@gmail.com</email>
+			<telefono>998754487</telefono>
+		</empleado>
+		<empleado>
+			<nombre>Alberto</nombre>
+			<apellidos>De Oro Romo</apellidos>
+			<cargo>tecnico</cargo>
+			<email>AlOrRo@gmail.com</email>
+			<telefono>998565587</telefono>
+		</empleado>
+	</personal>
+</emisora>

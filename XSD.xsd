@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="www.w3.org/2001/XMLSchema" version="0.1">
+	<xs:element name="emisora">
+		<xs:complextype>
+			<xs:sequence>
+				<xs:element name="nombre" type="xs:string"/>
+				<xs:element name="eslogan" type="xs:string"/>
+				<xs:element name="logo" type="xs:HexBinary"/>
+				<xs:element name="email" type="xs:string"/>
+				<xs:element name="top10">
+					<xs:complextype>
+						<xs:sequence>
+							<xs:element name="disco" minOccurus="10">
+								<xs:complextype>
+									<xs:sequence>
+										<xs:element name="titulo" type="xs:string"/>
+										<xs:element name="artista" type="xs:string"/>
+										<xs:element name="aniopublic" type="xs:date"/>
+										<xs:element name="sello" type="xs:string"/>
+										<xs:element name="posicion" type="xs:string"/>
+										<xs:element name="cataratula" type="xs:HexBinary"/>
+										<xs:element name="tracklist">
+											<xs:complextype>
+												<xs:sequence>
+													<xs:element name="pista" maxOccurus="unbounded">
+														<xs:complextype>
+															<xs:sequence>
+																<xs:element name="nombre" type="xs:string"></xs:element>
+															</xs:sequence>
+														</xs:complextype>
+													</xs:element>
+												</xs:sequence>
+											</xs:complextype>
+										</xs:element>
+									</xs:sequence>
+								</xs:complextype>
+							</xs:element>
+						</xs:sequence>
+					</xs:complextype>
+				</xs:element>
+				<xs:element name="programacion">
+					<xs:complextype>
+						<xs:sequence>
+							<xs:element name="horario" maxOccurus="unbounded">
+								<xs:complextype>
+									<xs:sequence>
+										<xs:element name="dia" type="xs:string"/>
+										<xs:element name="hora" type="xs:time"/>
+										<xs:element name="programa" type="xs:string"/>
+										<xs:element name="locutor" type="xs:string"/>
+									</xs:sequence>
+								</xs:complextype>
+							</xs:element>
+						</xs:sequence>
+					</xs:complextype>
+				</xs:element>
+				<xs:element name="personal">
+					<xs:complextype>
+						<xs:sequence>
+							<xs:element name="empleado" maxOccurus="unbounded">
+								<xs:complextype>
+									<xs:sequence>
+										<xs:element name="nombre" type="xs:string"/>
+										<xs:element name="apellidos" type="xs:string"/>
+										<xs:element name="cargo" type="xs:string"/>
+										<xs:element name="email" type="xs:string"/>
+										<xs:element name="telefono" type="xs:integer"/>
+									</xs:sequence>
+								</xs:complextype>
+							</xs:element>
+						</xs:sequence>
+					</xs:complextype>
+				</xs:element>
+			</xs:sequence>
+		</xs:complextype>
+	</xs:element>
+</xs:schema>
